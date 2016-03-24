@@ -8,4 +8,4 @@ Steps :
 
     npm install
     and
-    grunt serve.dev
+    gulp serve.dev
