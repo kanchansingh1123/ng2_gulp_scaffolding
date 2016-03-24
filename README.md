@@ -8,4 +8,4 @@ Steps :
 
     npm install
     and
-    npm start
+    grunt serve.dev
